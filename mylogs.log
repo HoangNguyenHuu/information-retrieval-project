@@ -524,3 +524,39 @@
 07-11-2017 19:12:39 INFO  SearchGetHandler:27 - query: tìm kiếm thông tin
 07-11-2017 19:12:43 INFO  SearchGetHandler:27 - query: tìm kiếm thông tin
 07-11-2017 19:12:56 INFO  SearchGetHandler:27 - query: tìm kiếm thông tin
+07-11-2017 19:26:36 INFO  SearchService:33 - Start Vertx Server
+07-11-2017 19:26:36 DEBUG InternalLoggerFactory:71 - Using SLF4J as the default logging framework
+07-11-2017 19:26:36 DEBUG ResourceLeakDetector:81 - -Dio.netty.leakDetectionLevel: simple
+07-11-2017 19:26:36 DEBUG MultithreadEventLoopGroup:76 - -Dio.netty.eventLoopThreads: 8
+07-11-2017 19:26:36 DEBUG PlatformDependent0:76 - java.nio.Buffer.address: available
+07-11-2017 19:26:36 DEBUG PlatformDependent0:76 - sun.misc.Unsafe.theUnsafe: available
+07-11-2017 19:26:36 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.copyMemory: available
+07-11-2017 19:26:36 DEBUG PlatformDependent0:76 - java.nio.Bits.unaligned: true
+07-11-2017 19:26:36 DEBUG PlatformDependent:76 - Java version: 8
+07-11-2017 19:26:36 DEBUG PlatformDependent:76 - -Dio.netty.noUnsafe: false
+07-11-2017 19:26:36 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
+07-11-2017 19:26:36 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
+07-11-2017 19:26:36 DEBUG PlatformDependent:71 - Javassist: unavailable
+07-11-2017 19:26:36 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 19:26:36 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+07-11-2017 19:26:36 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+07-11-2017 19:26:36 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
+07-11-2017 19:26:36 DEBUG NioEventLoop:76 - -Dio.netty.noKeySetOptimization: false
+07-11-2017 19:26:36 DEBUG NioEventLoop:76 - -Dio.netty.selectorAutoRebuildThreshold: 512
+07-11-2017 19:26:36 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.numHeapArenas: 4
+07-11-2017 19:26:36 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.numDirectArenas: 4
+07-11-2017 19:26:36 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.pageSize: 8192
+07-11-2017 19:26:36 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.maxOrder: 11
+07-11-2017 19:26:36 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.chunkSize: 16777216
+07-11-2017 19:26:36 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.tinyCacheSize: 512
+07-11-2017 19:26:36 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.smallCacheSize: 256
+07-11-2017 19:26:36 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.normalCacheSize: 64
+07-11-2017 19:26:36 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+07-11-2017 19:26:36 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.cacheTrimInterval: 8192
+07-11-2017 19:26:37 DEBUG ThreadLocalRandom:71 - -Dio.netty.initialSeedUniquifier: 0x2afb82d75b00f5c3 (took 1 ms)
+07-11-2017 19:26:37 DEBUG ByteBufUtil:76 - -Dio.netty.allocator.type: unpooled
+07-11-2017 19:26:37 DEBUG ByteBufUtil:76 - -Dio.netty.threadLocalDirectBufferSize: 65536
+07-11-2017 19:26:37 DEBUG NetUtil:86 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+07-11-2017 19:26:37 DEBUG NetUtil:81 - /proc/sys/net/core/somaxconn: 128
+07-11-2017 19:27:07 DEBUG Recycler:76 - -Dio.netty.recycler.maxCapacity.default: 262144
+07-11-2017 19:27:07 INFO  SearchGetHandler:27 - query: chatbot là gì
