@@ -69,13 +69,14 @@ public class IndexJsonFiles {
                     Field stringField = new StringField(field, object.get(field).getAsString(), Field.Store.YES);
 //                    System.out.println("1: " + field);
                     doc.add(stringField);
-                } else if(field.equals("title")||field.equals("content")){
+                } else if (field.equals("title") || field.equals("content")) {
                     Field textField = new TextField(field, object.get(field).getAsString(), Field.Store.YES);
                     doc.add(textField);
-                } else if (field.equals("relevance")) {
-                    doc.add(new LongPoint(field, object.get(field).getAsLong()));
-//                    System.out.println("2: " + field);
                 }
+//                else if (field.equals("id")) {
+//                    doc.add(new LongPoint(field, object.get(field).getAsLong()));
+//                    System.out.println("2: " + field);
+//                }
             }
             try {
                 indexWriter.addDocument(doc);
@@ -95,26 +96,40 @@ public class IndexJsonFiles {
     }
 
     public JsonArray parseJsonFile() throws FileNotFoundException {
-        JsonArray result = new JsonArray();
+//        JsonArray result = new JsonArray();
         JsonParser parser = new JsonParser();
         System.out.println(jsonFilePath);
         JsonElement data = parser.parse(new FileReader(jsonFilePath));
 //        JsonObject jsonObject = data.getAsJsonObject();
 //        System.out.println(jsonObject.get("authors"));
-        JsonArray collection = data.getAsJsonObject().get("collection").getAsJsonArray();
-        for (int i = 0; i < collection.size(); i++) {
-            JsonObject query = collection.get(i).getAsJsonObject();
-            JsonArray sites = query.get("sites").getAsJsonArray();
-            for (int j = 0; j < sites.size(); j++) {
-                JsonObject site = sites.get(j).getAsJsonObject();
-                result.add(site);
-            }
-        }
+        JsonArray documents = data.getAsJsonObject().get("documents").getAsJsonArray();
+//        for (int i = 0; i < collection.size(); i++) {
+//            JsonObject query = collection.get(i).getAsJsonObject();
+//            JsonArray sites = query.get("sites").getAsJsonArray();
+//            for (int j = 0; j < sites.size(); j++) {
+//                JsonObject site = sites.get(j).getAsJsonObject();
+//                result.add(site);
+//            }
+//        }
+//
+//        for (int i = 0; i < result.size(); i++) {
+//            System.out.println(result.get(i).getAsJsonObject().get("title"));
+//        }
 
-        for(int i = 0; i<result.size(); i++){
-            System.out.println(result.get(i).getAsJsonObject().get("title"));
-        }
+        return documents;
+    }
 
-        return result;
+    public static void main(String[] args) throws FileNotFoundException {
+        JsonParser parser = new JsonParser();
+        System.out.println("data/all.json");
+        JsonElement data = parser.parse(new FileReader("data/all.json"));
+//        JsonObject jsonObject = data.getAsJsonObject();
+//        System.out.println(jsonObject.get("authors"));
+        JsonArray documents = data.getAsJsonObject().get("documents").getAsJsonArray();
+
+        for (int i = 0; i < documents.size(); i++) {
+            System.out.println(documents.get(i).getAsJsonObject().get("title"));
+        }
+        System.out.println(documents.size());
     }
 }
