@@ -775,3 +775,108 @@
 27-11-2017 15:49:10 DEBUG NetUtil:86 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
 27-11-2017 15:49:10 DEBUG NetUtil:81 - /proc/sys/net/core/somaxconn: 128
 27-11-2017 15:49:16 DEBUG Recycler:76 - -Dio.netty.recycler.maxCapacity.default: 262144
+27-11-2017 16:37:49 INFO  SearchService:35 - Start Vertx Server
+27-11-2017 16:37:49 DEBUG InternalLoggerFactory:71 - Using SLF4J as the default logging framework
+27-11-2017 16:37:49 DEBUG ResourceLeakDetector:81 - -Dio.netty.leakDetectionLevel: simple
+27-11-2017 16:37:49 DEBUG MultithreadEventLoopGroup:76 - -Dio.netty.eventLoopThreads: 8
+27-11-2017 16:37:49 DEBUG PlatformDependent0:76 - java.nio.Buffer.address: available
+27-11-2017 16:37:49 DEBUG PlatformDependent0:76 - sun.misc.Unsafe.theUnsafe: available
+27-11-2017 16:37:49 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.copyMemory: available
+27-11-2017 16:37:49 DEBUG PlatformDependent0:76 - java.nio.Bits.unaligned: true
+27-11-2017 16:37:49 DEBUG PlatformDependent:76 - Java version: 8
+27-11-2017 16:37:49 DEBUG PlatformDependent:76 - -Dio.netty.noUnsafe: false
+27-11-2017 16:37:49 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
+27-11-2017 16:37:49 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
+27-11-2017 16:37:49 DEBUG PlatformDependent:71 - Javassist: unavailable
+27-11-2017 16:37:49 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+27-11-2017 16:37:49 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+27-11-2017 16:37:49 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+27-11-2017 16:37:49 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
+27-11-2017 16:37:49 DEBUG NioEventLoop:76 - -Dio.netty.noKeySetOptimization: false
+27-11-2017 16:37:49 DEBUG NioEventLoop:76 - -Dio.netty.selectorAutoRebuildThreshold: 512
+27-11-2017 16:37:49 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.numHeapArenas: 4
+27-11-2017 16:37:49 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.numDirectArenas: 4
+27-11-2017 16:37:49 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.pageSize: 8192
+27-11-2017 16:37:49 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.maxOrder: 11
+27-11-2017 16:37:49 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.chunkSize: 16777216
+27-11-2017 16:37:49 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.tinyCacheSize: 512
+27-11-2017 16:37:49 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.smallCacheSize: 256
+27-11-2017 16:37:49 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.normalCacheSize: 64
+27-11-2017 16:37:49 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+27-11-2017 16:37:49 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.cacheTrimInterval: 8192
+27-11-2017 16:37:49 DEBUG ThreadLocalRandom:71 - -Dio.netty.initialSeedUniquifier: 0xf162ffab85454c0d (took 0 ms)
+27-11-2017 16:37:49 DEBUG ByteBufUtil:76 - -Dio.netty.allocator.type: unpooled
+27-11-2017 16:37:49 DEBUG ByteBufUtil:76 - -Dio.netty.threadLocalDirectBufferSize: 65536
+27-11-2017 16:37:49 DEBUG NetUtil:86 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+27-11-2017 16:37:49 DEBUG NetUtil:81 - /proc/sys/net/core/somaxconn: 128
+27-11-2017 16:37:57 DEBUG Recycler:76 - -Dio.netty.recycler.maxCapacity.default: 262144
+27-11-2017 16:56:25 INFO  SearchService:35 - Start Vertx Server
+27-11-2017 16:56:25 DEBUG InternalLoggerFactory:71 - Using SLF4J as the default logging framework
+27-11-2017 16:56:25 DEBUG ResourceLeakDetector:81 - -Dio.netty.leakDetectionLevel: simple
+27-11-2017 16:56:25 DEBUG MultithreadEventLoopGroup:76 - -Dio.netty.eventLoopThreads: 8
+27-11-2017 16:56:25 DEBUG PlatformDependent0:76 - java.nio.Buffer.address: available
+27-11-2017 16:56:25 DEBUG PlatformDependent0:76 - sun.misc.Unsafe.theUnsafe: available
+27-11-2017 16:56:25 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.copyMemory: available
+27-11-2017 16:56:25 DEBUG PlatformDependent0:76 - java.nio.Bits.unaligned: true
+27-11-2017 16:56:25 DEBUG PlatformDependent:76 - Java version: 8
+27-11-2017 16:56:25 DEBUG PlatformDependent:76 - -Dio.netty.noUnsafe: false
+27-11-2017 16:56:25 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
+27-11-2017 16:56:25 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
+27-11-2017 16:56:25 DEBUG PlatformDependent:71 - Javassist: unavailable
+27-11-2017 16:56:25 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+27-11-2017 16:56:25 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+27-11-2017 16:56:25 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+27-11-2017 16:56:25 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
+27-11-2017 16:56:25 DEBUG NioEventLoop:76 - -Dio.netty.noKeySetOptimization: false
+27-11-2017 16:56:25 DEBUG NioEventLoop:76 - -Dio.netty.selectorAutoRebuildThreshold: 512
+27-11-2017 16:56:25 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.numHeapArenas: 4
+27-11-2017 16:56:25 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.numDirectArenas: 4
+27-11-2017 16:56:25 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.pageSize: 8192
+27-11-2017 16:56:25 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.maxOrder: 11
+27-11-2017 16:56:25 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.chunkSize: 16777216
+27-11-2017 16:56:25 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.tinyCacheSize: 512
+27-11-2017 16:56:25 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.smallCacheSize: 256
+27-11-2017 16:56:25 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.normalCacheSize: 64
+27-11-2017 16:56:25 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+27-11-2017 16:56:25 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.cacheTrimInterval: 8192
+27-11-2017 16:56:25 DEBUG ThreadLocalRandom:71 - -Dio.netty.initialSeedUniquifier: 0xe63cb39a2c2b60df (took 1 ms)
+27-11-2017 16:56:25 DEBUG ByteBufUtil:76 - -Dio.netty.allocator.type: unpooled
+27-11-2017 16:56:25 DEBUG ByteBufUtil:76 - -Dio.netty.threadLocalDirectBufferSize: 65536
+27-11-2017 16:56:25 DEBUG NetUtil:86 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+27-11-2017 16:56:25 DEBUG NetUtil:81 - /proc/sys/net/core/somaxconn: 128
+27-11-2017 16:56:32 DEBUG Recycler:76 - -Dio.netty.recycler.maxCapacity.default: 262144
+27-11-2017 16:56:57 INFO  SearchService:35 - Start Vertx Server
+27-11-2017 16:56:57 DEBUG InternalLoggerFactory:71 - Using SLF4J as the default logging framework
+27-11-2017 16:56:57 DEBUG ResourceLeakDetector:81 - -Dio.netty.leakDetectionLevel: simple
+27-11-2017 16:56:57 DEBUG MultithreadEventLoopGroup:76 - -Dio.netty.eventLoopThreads: 8
+27-11-2017 16:56:57 DEBUG PlatformDependent0:76 - java.nio.Buffer.address: available
+27-11-2017 16:56:57 DEBUG PlatformDependent0:76 - sun.misc.Unsafe.theUnsafe: available
+27-11-2017 16:56:57 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.copyMemory: available
+27-11-2017 16:56:57 DEBUG PlatformDependent0:76 - java.nio.Bits.unaligned: true
+27-11-2017 16:56:57 DEBUG PlatformDependent:76 - Java version: 8
+27-11-2017 16:56:57 DEBUG PlatformDependent:76 - -Dio.netty.noUnsafe: false
+27-11-2017 16:56:57 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
+27-11-2017 16:56:57 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
+27-11-2017 16:56:57 DEBUG PlatformDependent:71 - Javassist: unavailable
+27-11-2017 16:56:57 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+27-11-2017 16:56:57 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+27-11-2017 16:56:57 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+27-11-2017 16:56:57 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
+27-11-2017 16:56:57 DEBUG NioEventLoop:76 - -Dio.netty.noKeySetOptimization: false
+27-11-2017 16:56:57 DEBUG NioEventLoop:76 - -Dio.netty.selectorAutoRebuildThreshold: 512
+27-11-2017 16:56:57 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.numHeapArenas: 4
+27-11-2017 16:56:57 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.numDirectArenas: 4
+27-11-2017 16:56:57 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.pageSize: 8192
+27-11-2017 16:56:57 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.maxOrder: 11
+27-11-2017 16:56:57 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.chunkSize: 16777216
+27-11-2017 16:56:57 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.tinyCacheSize: 512
+27-11-2017 16:56:57 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.smallCacheSize: 256
+27-11-2017 16:56:57 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.normalCacheSize: 64
+27-11-2017 16:56:57 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+27-11-2017 16:56:57 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.cacheTrimInterval: 8192
+27-11-2017 16:56:57 DEBUG ThreadLocalRandom:71 - -Dio.netty.initialSeedUniquifier: 0x91becc9b783546f3 (took 1 ms)
+27-11-2017 16:56:57 DEBUG ByteBufUtil:76 - -Dio.netty.allocator.type: unpooled
+27-11-2017 16:56:57 DEBUG ByteBufUtil:76 - -Dio.netty.threadLocalDirectBufferSize: 65536
+27-11-2017 16:56:57 DEBUG NetUtil:86 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+27-11-2017 16:56:57 DEBUG NetUtil:81 - /proc/sys/net/core/somaxconn: 128
+27-11-2017 16:57:02 DEBUG Recycler:76 - -Dio.netty.recycler.maxCapacity.default: 262144

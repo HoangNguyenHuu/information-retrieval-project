@@ -66,7 +66,7 @@ public class IndexJsonFiles {
             for (String field : object.keySet()) {
                 if (field.equals("id")) {
                     long id = object.get(field).getAsLong();
-                    doc.add(new LongPoint(field, id));
+                    doc.add(new StoredField(field, id));
 //                    System.out.println("id: " + id);
                 } else if (field.equals("url")) {
                     Field stringField = new StringField(field, object.get(field).getAsString(), Field.Store.YES);

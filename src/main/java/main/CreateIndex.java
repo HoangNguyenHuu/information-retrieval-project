@@ -5,6 +5,7 @@ import index.IndexJsonFiles;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
+import org.apache.lucene.index.PointValues;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
@@ -33,7 +34,7 @@ public class CreateIndex {
 
             for(int i = 0; i<numDocs; i++){
                 Document document = indexReader.document(i);
-                System.out.println("d="+document.get("doc_id"));
+                System.out.println("d="+ document.get("id"));
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
