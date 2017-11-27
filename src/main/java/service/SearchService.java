@@ -1,6 +1,7 @@
 package service;
 
 import config.Configuration;
+import handler.GetAllHandler;
 import handler.SearchGetHandler;
 import handler.SearchPostHandler;
 import io.vertx.core.AbstractVerticle;
@@ -19,6 +20,7 @@ public class SearchService extends AbstractVerticle{
     public void start(){
         Router router = Router.router(vertx);
         router.get("/search").handler(new SearchGetHandler());
+        router.get("/search-all").handler(new GetAllHandler());
         router.post("/search-post").handler(new SearchPostHandler());
         vertx.createHttpServer();
         vertx.createHttpServer().requestHandler(router::accept).listen(port);

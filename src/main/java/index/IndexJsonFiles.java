@@ -64,8 +64,11 @@ public class IndexJsonFiles {
             Document doc = new Document();
 //            System.out.println("------------------------");
             for (String field : object.keySet()) {
-
-                if (field.equals("url")) {
+                if (field.equals("id")) {
+                    long id = object.get(field).getAsLong();
+                    doc.add(new LongPoint(field, id));
+//                    System.out.println("id: " + id);
+                } else if (field.equals("url")) {
                     Field stringField = new StringField(field, object.get(field).getAsString(), Field.Store.YES);
 //                    System.out.println("1: " + field);
                     doc.add(stringField);
@@ -73,10 +76,6 @@ public class IndexJsonFiles {
                     Field textField = new TextField(field, object.get(field).getAsString(), Field.Store.YES);
                     doc.add(textField);
                 }
-//                else if (field.equals("id")) {
-//                    doc.add(new LongPoint(field, object.get(field).getAsLong()));
-//                    System.out.println("2: " + field);
-//                }
             }
             try {
                 indexWriter.addDocument(doc);

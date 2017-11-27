@@ -33,7 +33,7 @@ public class CreateIndex {
 
             for(int i = 0; i<numDocs; i++){
                 Document document = indexReader.document(i);
-                System.out.println("d="+document.get("url"));
+                System.out.println("d="+document.get("doc_id"));
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
