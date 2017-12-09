@@ -113,7 +113,7 @@ public class SearchEngine {
         QueryParser parser = new QueryParser(field, analyzer);
         Query query = parser.parse(queryStr);
 
-        TopDocs topDocs = searcher.search(query, 1000);
+        TopDocs topDocs = searcher.search(query, 10000);
         ScoreDoc[] hits = topDocs.scoreDocs;
         int quantity = Math.toIntExact(topDocs.totalHits);
 
