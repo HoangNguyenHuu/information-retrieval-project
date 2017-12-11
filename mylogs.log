@@ -11,7 +11,7 @@
 06-11-2017 22:33:15 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 06-11-2017 22:33:15 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 06-11-2017 22:33:15 DEBUG PlatformDependent:71 - Javassist: unavailable
-06-11-2017 22:33:15 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+06-11-2017 22:33:15 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 06-11-2017 22:33:15 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 06-11-2017 22:33:15 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 06-11-2017 22:33:15 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -45,7 +45,7 @@
 07-11-2017 13:53:12 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 13:53:12 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 13:53:12 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 13:53:12 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 13:53:12 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 13:53:12 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 13:53:12 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 13:53:12 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -83,7 +83,7 @@
 07-11-2017 14:03:59 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 14:03:59 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 14:03:59 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 14:03:59 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 14:03:59 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 14:03:59 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 14:03:59 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 14:03:59 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -121,7 +121,7 @@
 07-11-2017 14:04:42 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 14:04:42 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 14:04:42 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 14:04:42 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 14:04:42 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 14:04:42 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 14:04:42 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 14:04:42 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -162,7 +162,7 @@
 07-11-2017 14:05:42 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 14:05:42 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 14:05:42 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 14:05:42 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 14:05:42 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 14:05:42 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 14:05:42 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 14:05:42 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -201,7 +201,7 @@
 07-11-2017 14:23:59 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 14:23:59 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 14:23:59 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 14:23:59 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 14:23:59 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 14:23:59 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 14:23:59 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 14:23:59 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -239,7 +239,7 @@
 07-11-2017 14:26:37 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 14:26:37 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 14:26:37 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 14:26:37 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 14:26:37 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 14:26:37 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 14:26:37 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 14:26:37 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -275,7 +275,7 @@
 07-11-2017 14:28:37 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 14:28:37 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 14:28:37 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 14:28:37 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 14:28:37 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 14:28:37 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 14:28:37 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 14:28:37 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -315,7 +315,7 @@
 07-11-2017 14:30:26 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 14:30:26 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 14:30:26 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 14:30:26 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 14:30:26 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 14:30:26 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 14:30:26 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 14:30:26 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -351,7 +351,7 @@
 07-11-2017 14:31:09 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 14:31:09 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 14:31:09 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 14:31:09 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 14:31:09 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 14:31:09 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 14:31:09 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 14:31:09 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -387,7 +387,7 @@
 07-11-2017 14:33:42 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 14:33:42 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 14:33:42 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 14:33:42 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 14:33:42 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 14:33:42 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 14:33:42 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 14:33:42 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -425,7 +425,7 @@
 07-11-2017 14:35:10 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 14:35:10 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 14:35:10 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 14:35:10 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 14:35:10 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 14:35:10 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 14:35:10 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 14:35:10 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -461,7 +461,7 @@
 07-11-2017 15:05:22 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 15:05:22 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 15:05:22 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 15:05:22 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 15:05:22 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 15:05:22 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 15:05:22 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 15:05:22 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -498,7 +498,7 @@
 07-11-2017 19:11:40 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 19:11:40 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 19:11:40 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 19:11:40 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 19:11:40 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 19:11:40 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 19:11:40 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 19:11:40 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -537,7 +537,7 @@
 07-11-2017 19:26:36 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 07-11-2017 19:26:36 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 07-11-2017 19:26:36 DEBUG PlatformDependent:71 - Javassist: unavailable
-07-11-2017 19:26:36 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+07-11-2017 19:26:36 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 07-11-2017 19:26:36 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 07-11-2017 19:26:36 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 07-11-2017 19:26:36 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -573,7 +573,7 @@
 08-11-2017 15:29:43 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 08-11-2017 15:29:43 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 08-11-2017 15:29:43 DEBUG PlatformDependent:71 - Javassist: unavailable
-08-11-2017 15:29:43 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+08-11-2017 15:29:43 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 08-11-2017 15:29:43 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 08-11-2017 15:29:43 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 08-11-2017 15:29:43 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -607,7 +607,7 @@
 09-11-2017 08:42:59 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 09-11-2017 08:42:59 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 09-11-2017 08:42:59 DEBUG PlatformDependent:71 - Javassist: unavailable
-09-11-2017 08:42:59 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+09-11-2017 08:42:59 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 09-11-2017 08:42:59 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 09-11-2017 08:42:59 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 09-11-2017 08:42:59 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -645,7 +645,7 @@
 09-11-2017 09:22:22 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 09-11-2017 09:22:22 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 09-11-2017 09:22:22 DEBUG PlatformDependent:71 - Javassist: unavailable
-09-11-2017 09:22:22 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+09-11-2017 09:22:22 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 09-11-2017 09:22:22 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 09-11-2017 09:22:22 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 09-11-2017 09:22:22 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -681,7 +681,7 @@
 20-11-2017 21:34:08 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 20-11-2017 21:34:08 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 20-11-2017 21:34:08 DEBUG PlatformDependent:71 - Javassist: unavailable
-20-11-2017 21:34:08 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+20-11-2017 21:34:08 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 20-11-2017 21:34:08 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 20-11-2017 21:34:08 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 20-11-2017 21:34:08 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -718,7 +718,7 @@
 27-11-2017 15:47:32 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 27-11-2017 15:47:32 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 27-11-2017 15:47:32 DEBUG PlatformDependent:71 - Javassist: unavailable
-27-11-2017 15:47:32 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+27-11-2017 15:47:32 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 27-11-2017 15:47:32 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 27-11-2017 15:47:32 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 27-11-2017 15:47:32 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -753,7 +753,7 @@
 27-11-2017 15:49:10 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 27-11-2017 15:49:10 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 27-11-2017 15:49:10 DEBUG PlatformDependent:71 - Javassist: unavailable
-27-11-2017 15:49:10 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+27-11-2017 15:49:10 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 27-11-2017 15:49:10 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 27-11-2017 15:49:10 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 27-11-2017 15:49:10 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -788,7 +788,7 @@
 27-11-2017 16:37:49 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 27-11-2017 16:37:49 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 27-11-2017 16:37:49 DEBUG PlatformDependent:71 - Javassist: unavailable
-27-11-2017 16:37:49 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+27-11-2017 16:37:49 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 27-11-2017 16:37:49 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 27-11-2017 16:37:49 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 27-11-2017 16:37:49 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -823,7 +823,7 @@
 27-11-2017 16:56:25 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 27-11-2017 16:56:25 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 27-11-2017 16:56:25 DEBUG PlatformDependent:71 - Javassist: unavailable
-27-11-2017 16:56:25 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+27-11-2017 16:56:25 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 27-11-2017 16:56:25 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 27-11-2017 16:56:25 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 27-11-2017 16:56:25 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -858,7 +858,7 @@
 27-11-2017 16:56:57 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 27-11-2017 16:56:57 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 27-11-2017 16:56:57 DEBUG PlatformDependent:71 - Javassist: unavailable
-27-11-2017 16:56:57 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+27-11-2017 16:56:57 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 27-11-2017 16:56:57 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 27-11-2017 16:56:57 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 27-11-2017 16:56:57 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -893,7 +893,7 @@
 09-12-2017 09:39:04 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 09-12-2017 09:39:04 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 09-12-2017 09:39:04 DEBUG PlatformDependent:71 - Javassist: unavailable
-09-12-2017 09:39:04 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+09-12-2017 09:39:04 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 09-12-2017 09:39:04 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 09-12-2017 09:39:04 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 09-12-2017 09:39:04 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -929,7 +929,7 @@
 09-12-2017 12:20:17 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 09-12-2017 12:20:17 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 09-12-2017 12:20:17 DEBUG PlatformDependent:71 - Javassist: unavailable
-09-12-2017 12:20:17 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+09-12-2017 12:20:17 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 09-12-2017 12:20:17 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 09-12-2017 12:20:17 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 09-12-2017 12:20:17 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -966,7 +966,7 @@
 11-12-2017 11:22:21 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
 11-12-2017 11:22:21 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
 11-12-2017 11:22:21 DEBUG PlatformDependent:71 - Javassist: unavailable
-11-12-2017 11:22:21 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+11-12-2017 11:22:21 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
 11-12-2017 11:22:21 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
 11-12-2017 11:22:21 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
 11-12-2017 11:22:22 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
@@ -989,3 +989,80 @@
 11-12-2017 11:22:22 DEBUG NetUtil:81 - /proc/sys/net/core/somaxconn: 128
 11-12-2017 11:24:37 DEBUG Recycler:76 - -Dio.netty.recycler.maxCapacity.default: 262144
 11-12-2017 11:24:37 INFO  SearchGetHandler:27 - query: Nguyên nhân gây ra động đất
+11-12-2017 12:07:59 INFO  SearchService:35 - Start Vertx Server
+11-12-2017 12:07:59 DEBUG InternalLoggerFactory:71 - Using SLF4J as the default logging framework
+11-12-2017 12:07:59 DEBUG ResourceLeakDetector:81 - -Dio.netty.leakDetectionLevel: simple
+11-12-2017 12:07:59 DEBUG MultithreadEventLoopGroup:76 - -Dio.netty.eventLoopThreads: 8
+11-12-2017 12:07:59 DEBUG PlatformDependent0:76 - java.nio.Buffer.address: available
+11-12-2017 12:07:59 DEBUG PlatformDependent0:76 - sun.misc.Unsafe.theUnsafe: available
+11-12-2017 12:07:59 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.copyMemory: available
+11-12-2017 12:07:59 DEBUG PlatformDependent0:76 - java.nio.Bits.unaligned: true
+11-12-2017 12:07:59 DEBUG PlatformDependent:76 - Java version: 8
+11-12-2017 12:07:59 DEBUG PlatformDependent:76 - -Dio.netty.noUnsafe: false
+11-12-2017 12:07:59 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
+11-12-2017 12:07:59 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
+11-12-2017 12:07:59 DEBUG PlatformDependent:71 - Javassist: unavailable
+11-12-2017 12:07:59 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better evaluation.
+11-12-2017 12:07:59 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+11-12-2017 12:07:59 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+11-12-2017 12:07:59 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
+11-12-2017 12:07:59 DEBUG NioEventLoop:76 - -Dio.netty.noKeySetOptimization: false
+11-12-2017 12:07:59 DEBUG NioEventLoop:76 - -Dio.netty.selectorAutoRebuildThreshold: 512
+11-12-2017 12:07:59 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.numHeapArenas: 4
+11-12-2017 12:07:59 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.numDirectArenas: 4
+11-12-2017 12:07:59 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.pageSize: 8192
+11-12-2017 12:07:59 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.maxOrder: 11
+11-12-2017 12:07:59 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.chunkSize: 16777216
+11-12-2017 12:07:59 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.tinyCacheSize: 512
+11-12-2017 12:07:59 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.smallCacheSize: 256
+11-12-2017 12:07:59 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.normalCacheSize: 64
+11-12-2017 12:07:59 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+11-12-2017 12:07:59 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.cacheTrimInterval: 8192
+11-12-2017 12:07:59 DEBUG ThreadLocalRandom:71 - -Dio.netty.initialSeedUniquifier: 0x5db87ae046207734 (took 0 ms)
+11-12-2017 12:07:59 DEBUG ByteBufUtil:76 - -Dio.netty.allocator.type: unpooled
+11-12-2017 12:07:59 DEBUG ByteBufUtil:76 - -Dio.netty.threadLocalDirectBufferSize: 65536
+11-12-2017 12:07:59 DEBUG NetUtil:86 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+11-12-2017 12:07:59 DEBUG NetUtil:81 - /proc/sys/net/core/somaxconn: 128
+11-12-2017 12:08:36 DEBUG Recycler:76 - -Dio.netty.recycler.maxCapacity.default: 262144
+11-12-2017 12:08:36 INFO  SearchGetHandler:27 - query: xử lý ngôn ngữ tự nhiên 
+11-12-2017 12:16:11 INFO  SearchGetHandler:27 - query: xử lý ngôn ngữ tự nhiên
+11-12-2017 12:16:59 INFO  SearchGetHandler:27 - query: chatbot là gì
+11-12-2017 13:36:19 INFO  SearchService:35 - Start Vertx Server
+11-12-2017 13:36:19 DEBUG InternalLoggerFactory:71 - Using SLF4J as the default logging framework
+11-12-2017 13:36:19 DEBUG ResourceLeakDetector:81 - -Dio.netty.leakDetectionLevel: simple
+11-12-2017 13:36:19 DEBUG MultithreadEventLoopGroup:76 - -Dio.netty.eventLoopThreads: 8
+11-12-2017 13:36:19 DEBUG PlatformDependent0:76 - java.nio.Buffer.address: available
+11-12-2017 13:36:19 DEBUG PlatformDependent0:76 - sun.misc.Unsafe.theUnsafe: available
+11-12-2017 13:36:19 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.copyMemory: available
+11-12-2017 13:36:19 DEBUG PlatformDependent0:76 - java.nio.Bits.unaligned: true
+11-12-2017 13:36:19 DEBUG PlatformDependent:76 - Java version: 8
+11-12-2017 13:36:19 DEBUG PlatformDependent:76 - -Dio.netty.noUnsafe: false
+11-12-2017 13:36:19 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
+11-12-2017 13:36:19 DEBUG PlatformDependent:76 - -Dio.netty.noJavassist: false
+11-12-2017 13:36:19 DEBUG PlatformDependent:71 - Javassist: unavailable
+11-12-2017 13:36:19 DEBUG PlatformDependent:71 - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+11-12-2017 13:36:19 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+11-12-2017 13:36:19 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+11-12-2017 13:36:19 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
+11-12-2017 13:36:19 DEBUG NioEventLoop:76 - -Dio.netty.noKeySetOptimization: false
+11-12-2017 13:36:19 DEBUG NioEventLoop:76 - -Dio.netty.selectorAutoRebuildThreshold: 512
+11-12-2017 13:36:20 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.numHeapArenas: 4
+11-12-2017 13:36:20 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.numDirectArenas: 4
+11-12-2017 13:36:20 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.pageSize: 8192
+11-12-2017 13:36:20 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.maxOrder: 11
+11-12-2017 13:36:20 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.chunkSize: 16777216
+11-12-2017 13:36:20 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.tinyCacheSize: 512
+11-12-2017 13:36:20 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.smallCacheSize: 256
+11-12-2017 13:36:20 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.normalCacheSize: 64
+11-12-2017 13:36:20 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+11-12-2017 13:36:20 DEBUG PooledByteBufAllocator:76 - -Dio.netty.allocator.cacheTrimInterval: 8192
+11-12-2017 13:36:20 DEBUG ThreadLocalRandom:71 - -Dio.netty.initialSeedUniquifier: 0xf6706bc119a1bdf0 (took 1 ms)
+11-12-2017 13:36:20 DEBUG ByteBufUtil:76 - -Dio.netty.allocator.type: unpooled
+11-12-2017 13:36:20 DEBUG ByteBufUtil:76 - -Dio.netty.threadLocalDirectBufferSize: 65536
+11-12-2017 13:36:20 DEBUG NetUtil:86 - Loopback interface: lo (lo, 0:0:0:0:0:0:0:1%lo)
+11-12-2017 13:36:20 DEBUG NetUtil:81 - /proc/sys/net/core/somaxconn: 128
+11-12-2017 13:36:56 DEBUG Recycler:76 - -Dio.netty.recycler.maxCapacity.default: 262144
+11-12-2017 13:36:56 INFO  SearchGetHandler:27 - query: tìm kiếm thông tin
+11-12-2017 13:37:23 INFO  SearchGetHandler:27 - query: nguyên nhân gây ra động đất
+11-12-2017 13:43:32 INFO  SearchGetHandler:27 - query: thuật toán svm
+11-12-2017 13:47:06 INFO  SearchGetHandler:27 - query: Ứng dụng mạng nơ-ron trong dự báo
